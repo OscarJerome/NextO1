@@ -1,0 +1,6 @@
+.main{
+    min-height:94vh ;
+    display: grid;
+    place-content: center;
+    background-color: #333;
+}
